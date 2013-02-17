@@ -1,0 +1,20 @@
+
+Hardware
+
+	RGB Led
+		D0 Red
+		D1 Green
+		D2 Blue
+
+	Switches
+		SW1 on right side - Reset pass through
+		SW2 on left side  
+
+	Analog potentiometers
+		A GPIO_PIN_A0
+		B GPIO_PIN_A1
+
+	Servos
+		There are 4 servo headers. 5, 6, 9, 10
+		left	GPIO_PIN_D5
+		right	GPIO_PIN_D6
